@@ -1,28 +1,47 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Cheelo;DevOps+%26+Data+Engineer;AWS+Cloud+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+
+# Hi, I'm Cheelo 👋
+
+**DevOps & Data Engineer · Building from Lusaka, Zambia**
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@ceethedev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ceethedev)
+
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+I like building practical tools where software, cloud infrastructure, and data
+meet. My projects range from workplace automation and cloud learning to
+interactive analytics and applications focused on local challenges.
 
-### 🚀 About Me:
-- 🔭 Currently crafting **[Miro Verse Templates](https://miro.com/miroverse/profile/cheelo-hamududu/)** 
-- ☁️ Mastering **AWS Cloud Architecture**
-- 🤝 Open to **exciting collaborations** on innovative projects
-- 💡 Let's talk **DevOps automation** and **data-driven insights**
-- 🎯 Turning data into decisions, infrastructure into innovation
+I'm currently exploring AWS cloud architecture, DevOps automation, and ways to
+turn data into useful decisions. I'm open to interesting collaborations and
+conversations about building technology that solves real problems.
 
-## 🛠️ Tech Arsenal:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,terraform,jenkins,git,linux,mongodb,postgresql,grafana,prometheus" />
-</div>
+## What I work with
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CheeloHamududu&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-</div>
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Jenkins, Linux
+- **Data & analytics:** Python, Jupyter, Streamlit, Power BI
+- **Development:** TypeScript, JavaScript, C#, PowerShell
+- **Databases & observability:** MongoDB, PostgreSQL, Grafana, Prometheus
+
+## Selected projects
+
+- **[CropAI Zambia](https://github.com/ceethedev/AI-for-Early-Crop-Disease-Detection)** — A React and TypeScript application exploring early crop disease detection for Zambian farmers, alongside farmer surveys and educational content. The current disease analysis is a prototype.
+- **[Toyota GR Cup Race Analytics Dashboard](https://github.com/ceethedev/Toyota-GR-Cup-Race-Analytics-Dashboard)** — A Streamlit dashboard for exploring race telemetry, comparing drivers, and simulating pit-stop and tire/fuel strategy.
+- **[National Athlete Performance Platform](https://github.com/ceethedev/National-Athlete-Performance-Data-Platform)** — An analytics project exploring athlete monitoring, training and recovery, injury prevention, and talent identification.
+- **[PowerShell Scripts](https://github.com/ceethedev/Powershell_scripts)** — Practical scripts for workplace automation.
+- **[Zambia Net Pay](https://github.com/ceethedev/zambia-net-pay)** — A simple calculator for Zambian tax bands.
+
+## A little more
+
+- 📍 Based in Lusaka, Zambia
+- ☁️ Learning and building with AWS and cloud-native tools
+- 🧩 Creating templates and resources for [Miroverse](https://miro.com/miroverse/profile/cheelo-hamududu/)
+- ✍️ I share more on [Hashnode](https://hashnode.com/@ceethedev)
+- 🤝 Open to collaboration on useful software, data, and automation projects
 
 ---
+
 <div align="center">
-  <i>"Automating the future, one pipeline at a time" 🚀</i>
+  <i>Always learning, always building.</i>
 </div>
